@@ -15,7 +15,7 @@ body {
     color: orange;
 }
 
-section {
+.flexible {
     display: flex;
     margin-bottom: 200px;
 }
@@ -50,6 +50,4 @@ section {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
-
-
 }
